@@ -11,5 +11,5 @@ Nu vil jeg også prøve at lege med iconer:
  Jeg elsker :kaffe:, :pizza:, og :music:.
  Sådanne Gitten kender åbenbart kun sine egne iconer på eget sprog. :coffee:, :dancer:, :music:,
  
- git push
+
  
